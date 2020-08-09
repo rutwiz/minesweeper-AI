@@ -1,4 +1,4 @@
 # minesweeper-AI
 
-# Demo on YouTube
+>Demo on YouTube
 https://youtu.be/XbuC8uGNXfY
